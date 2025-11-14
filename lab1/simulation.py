@@ -11,4 +11,4 @@ def iterate(p, count):
         if(event(p)):
             sum += 1/count
     print(sum)
-iterate(0.6969, 10000000)
+iterate(0.666, 100000)
